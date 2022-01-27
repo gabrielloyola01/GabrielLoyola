@@ -1,0 +1,57 @@
+
+header{
+    background-color: #108447;
+    height: 200px;
+    text-align: center;
+
+}
+
+.headerpadre{
+   position: relative;
+
+}
+
+.headerimagen{
+    height: 50px;
+   
+}
+
+.headerimagen img{
+    height: 100%;
+    margin: 60px;
+    
+}
+
+.main{
+    height: 1500px;
+}
+
+nav{
+    font-family: 'Bebas Neue', cursive;
+    position: sticky;
+    background-color: #61b160;
+}
+
+ul{
+    text-align: center;
+}
+
+nav ul li a:hover{
+    background-color: #0ccf67;
+}
+
+footer{
+    background-color: #61b160;
+   
+}
+
+.footer1{
+    text-align: left;
+}
+
+.footer2{
+    text-align: left;
+}
+
+
+
